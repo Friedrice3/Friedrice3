@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Friedrice</h1>
 <h3 align="center">A programming student <br>(Post-secondary final year)</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FriedRice3&show_icons=true" />   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrice3&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 # Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=js,html,php,css,cs,docker,git,github,mysql,npm,pnpm,py)
