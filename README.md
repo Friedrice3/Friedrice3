@@ -12,4 +12,4 @@
 # Through... contact
 ![contact](https://skillicons.dev/icons?i=discord,github)
 # Will learn in the future
-![learn_future](https://skillicons.dev/icons?i=cpp,react,raspberrypi,swift,ts,emacs)
+![learn_future](https://skillicons.dev/icons?i=cpp,redis,react,raspberrypi,swift,ts,emacs)
