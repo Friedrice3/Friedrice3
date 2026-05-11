@@ -8,7 +8,7 @@
 # Tools and Environments
 ![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,vim)
 # Platforms
-![My Platforms](https://skillicons.dev/icons?i=windows)
+![My Platforms](https://skillicons.dev/icons?i=windows,linux)
 # Through... contact
 ![contact](https://skillicons.dev/icons?i=discord,github)
 # Will learn in the future
