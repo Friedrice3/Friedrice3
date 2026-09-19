@@ -78,12 +78,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/FriedRice3">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <!-- Add your Discord invite link below to make the icon clickable -->
-  <a href="qweewq67801@gmail.com">
-  <img src="https://skillicons.dev/icons?i=email" alt="Email" />
+** Email ** : qweewq67801@gmail.com
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer wave" />
